@@ -6,4 +6,6 @@ Read continuously or use Present mode. Keys Left/Right move between chapters; Es
 
 The site contains only the expository presentation and its assets. It does not include the private main manuscript, private repository history or the earlier SymPy annex.
 
-Third-party notices: interactive3d/THREE_LICENSE.txt and vendor/KATEX_LICENSE.txt.
+Eight Plotly figures support hover, zoom, legend controls and SVG export; original images remain as print and no-JavaScript fallbacks.
+
+Third-party notices: interactive3d/THREE_LICENSE.txt, vendor/KATEX_LICENSE.txt and vendor/PLOTLY_LICENSE.txt.
